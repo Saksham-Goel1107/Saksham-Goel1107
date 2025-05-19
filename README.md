@@ -39,7 +39,7 @@
 ## 📫 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-goel-88b74b33a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](saksham-portfolio-alpha.vercel.app) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://saksham-portfolio-alpha.vercel.app) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Saksham1199805?t=dJ_uANhDXV08yaL8wwNEtA&s=09)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakshamgoel1107@gmail.com)  
 
