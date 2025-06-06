@@ -52,6 +52,8 @@
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="C" />
     <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java" />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="TypeScript" />
@@ -59,6 +61,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React" />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js" style="background:#fff;border-radius:8px;padding:4px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React Native" title="React Native" style="background:#fff;border-radius:8px;padding:4px;" />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS" />
     <img width="12" />
@@ -106,6 +109,8 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="Figma" />
     <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="60" alt="Postman" />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="Canva" />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=kafka" height="60" alt="Kafka" />
@@ -115,9 +120,17 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="Android" />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=apple" height="60" alt="Apple" style="background:#fff;border-radius:8px;padding:4px;" />
-  </p>
-  <p>
-    <em>Tip: Some icons (like Next.js, GitHub, Express, Prisma, Bash, Apple) are shown with a white background for better visibility in dark mode.</em>
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="60" alt="Jest" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60" alt="Redux" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="60" alt="Material UI" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="Jupyter" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="60" alt="Heroku" />
+    <img src="https://ui.shadcn.com/favicon.ico" height="60" alt="shadcn" />
   </p>
 </div>
 
