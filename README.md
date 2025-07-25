@@ -183,12 +183,22 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
+## 💖 Sponsor My Work
+
+<div align="center">
+  <a href="https://github.com/sponsors/Saksham-Goel1107" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor%20on%20GitHub-F8766D?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor on GitHub" />
+  </a>
+  <a href="https://razorpay.me/@saksham3344" target="_blank">
+    <img src="https://img.shields.io/badge/Donate%20via%20Razorpay-00C2FF?style=for-the-badge&logo=razorpay&logoColor=white" alt="Donate via Razorpay" />
+  </a>
+</div>
+
 ## ✨ Profile Views
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Saksham-Goel1107&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
-
 
 ---
 
