@@ -194,7 +194,7 @@
     <img src="https://img.shields.io/badge/Donate%20via%20Razorpay-00C2FF?style=for-the-badge&logo=razorpay&logoColor=white" alt="Donate via Razorpay" />
   </a>
   
-  <a href="https://buymeacoffee.com/zir4vx1mtu" target="_blank">
+  <a href="https://buymeacoffee.com/saksham07" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" />
   </a>
 </div>
