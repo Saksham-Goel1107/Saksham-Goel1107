@@ -149,7 +149,7 @@
     <a href="https://www.instagram.com/sakshamg__" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram" />
     </a>
-    <a href="https://saksham-portfolio-alpha.vercel.app/" target="_blank">
+    <a href="https://www.sakshamg.me" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio" />
     </a>
     <a href="https://linked-tree-livid.vercel.app/Saksham" target="_blank">
